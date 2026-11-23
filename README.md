@@ -6,8 +6,8 @@ The newest version of two papers on professional team sports, each with its supp
   *Who is who: injury rates between players and within each player in professional team sports*\
   Gustavo Pedro Ricou and Nicholas Mahony
 - **Paper B:** [PDF](paper-B.pdf) · [Supplement](paper-B-supplement.pdf)\
-  *New rules, old habits: across seven team sports, each league keeps its own way of using the rules*\
-  Gustavo Pedro Ricou
+  *New rules, old habits: leagues keep their place through rule changes across team sports*\
+  Gustavo Pedro Ricou and Daniel Memmert
 
 ## Copyright
 
