@@ -7,7 +7,7 @@ The newest version of two papers on professional team sports, each with its supp
   Gustavo Pedro Ricou and Nicholas Mahony
 - **Paper B:** [PDF](paper-B.pdf) · [Supplement](paper-B-supplement.pdf)\
   *New rules, old habits: leagues keep their place through rule changes across team sports*\
-  Gustavo Pedro Ricou and Daniel Memmert
+  Gustavo Pedro Ricou, Daniel Carrilho, Runze Feng and Daniel Memmert
 
 ## Copyright
 
